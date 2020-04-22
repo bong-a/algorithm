@@ -22,7 +22,7 @@ int main(int argc, char* argv[]) {
 	printf("01. Selection Sort\n");
 	int i,j ,min,index,temp;
 	
-	int array[10] ={1,2,3,4,5,6,7,8,9,10};
+	int array[10] ={1,10,5,8,7,6,4,3,2,9};
 	
 	for(i=0;i<10;i++){
 		min=9999;

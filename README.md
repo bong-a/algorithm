@@ -1,8 +1,13 @@
 
 ## Basic
-[01. 선택정렬](docs/01_selection-sort.md)
-[02. 버블정렬](docs/02_bubble-sort.md)
-[03. 삽입정렬](docs/03_insertion-sort.md)
+01. [선택정렬](docs/01_selection-sort.md)
+
+02. [버블정렬](docs/02_bubble-sort.md)
+
+03. [삽입정렬](docs/03_insertion-sort.md)
+
+04. [퀵정렬](docs/04_quick-sort.md)
+
 
 
 ## LeetCode
