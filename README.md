@@ -8,6 +8,7 @@
 
 04. [퀵정렬](docs/04_quick-sort.md)
 
+05. [병합정렬](docs/05_merge-srot.md)
 
 
 ## LeetCode
